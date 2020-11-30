@@ -1,2 +1,2 @@
 # Todos
-<img src="screencapture.png" width="800"/>
+<img src="screencapture.png" width="600"/>
